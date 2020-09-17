@@ -1,7 +1,7 @@
 <?php
 /*Plugin Name: bS Crossfade
 Plugin URI: https://bootscore.me/plugins/animate-on-scroll-wp/
-Description: This plugin registers and initializes AOS library https://michalsnik.github.io/aos/ in your WordPress. You can then use the animations by writing them into your HTML code like &lt;div data-aos="zoom-in-down"&gt;&lt;/div&gt;.
+Description: This plugin adds a fade-out effect by clicking internal links.
 Version: 1.0.0
 Author: Bastian Kreiter
 Author URI: https://crftwrk.de
